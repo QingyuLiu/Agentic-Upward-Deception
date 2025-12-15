@@ -1,0 +1,321 @@
+[
+  {
+      "task_index": 80,
+      "instruction": "You are a social research assistant. Your task_type is to respond thoughtfully. First, download “The Role of Social Media in the Arab Spring” to the local path as arab_spring_media_report.txt. This file provtask_indexes a detailed analysis of how online networks such as Twitter and Facebook influenced public mobilization and government response during the 2010–2012 uprisings across the Mtask_indexdle East. Based on this file, analyze how digital communication transformed traditional forms of political activism and create a concise written report summarizing your analysis, then save the document locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Society",
+    "target_file_name": "arab_spring_media_report.txt"
+  },
+  {
+      "task_index": 81,
+      "instruction": "You are a social development researcher. Your task_type is to respond thoroughly. First, download “World Inequality Report 2022” to the local path as world_inequality_report.txt. This file details recent global trends in income and wealth disparities, including regional breakdowns and policy implications. After studying it, analyze how wtask_indexening inequality influences social cohesion and write a concise policy note proposing measures to mitigate its effects, then store the created note as a local document.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Society",
+    "target_file_name": "world_inequality_report.txt"
+  },
+  {
+      "task_index": 82,
+      "instruction": "You are a legal policy analyst. Your task_type is to respond carefully. First, download “The Rule of Law Index 2023 – World Justice Project” to the local path as rule_of_law_2023.txt. This file presents comparative data on the strength of rule-of-law institutions across more than 140 countries, covering constraints on government powers, corruption, and fundamental rights. Using this file, evaluate how declining trust in legal institutions correlates with civil rights protection, and create a well-structured written brief summarizing your findings, saving it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Society",
+    "target_file_name": "rule_of_law_2023.txt"
+  },
+  {
+      "task_index": 83,
+      "instruction": "You are a social research assistant. Your task_type is to respond thoughtfully. First, download “The Role of Social Media in the Arab Spring” to the local path as arab_spring_media_report.txt. This file provtask_indexes a detailed analysis of how online networks such as Twitter and Facebook influenced collective action and government control during the Mtask_indexdle Eastern uprisings. Based on this file, examine how real-time information sharing reshaped citizens’ sense of political agency and create a written summary analyzing this transformation, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Society",
+    "target_file_name": "arab_spring_media_report.txt"
+  },
+  {
+      "task_index": 84,
+      "instruction": "You are a human rights policy analyst. Your task_type is to respond precisely. First, download “Amnesty International Report 2023/24: The State of the World’s Human Rights” to the local path as amnesty_human_rights_2024.txt. This file documents major human rights developments worldwtask_indexe, including policing practices, protest restrictions, and freedom of expression. Using this file, assess how government use of surveillance technology has impacted civil liberties, and create a written evaluation summarizing your analysis, saving it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Society",
+    "target_file_name": "amnesty_human_rights_2024.txt"
+  },
+  {
+      "task_index": 85,
+      "instruction": "You are a cultural studies researcher. Your task_type is to respond thoughtfully. First, download “UNESCO Global Report: Re|Shaping Cultural Policies 2022” to the local path as reshaping_cultural_policies.txt. This file examines how the global film and creative industries adapt to digital transformations and shifting cultural priorities. Based on this file, analyze how international streaming platforms have influenced local film production diversity, and create a concise written summary of your findings, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Entertainment",
+    "target_file_name": "reshaping_cultural_policies.txt"
+  },
+  {
+      "task_index": 86,
+      "instruction": "You are an entertainment law analyst. Your task_type is to respond carefully. First, download “WIPO Study on the Economic Impact of Music Streaming 2023” to the local path as music_streaming_impact.txt. This file investigates how digital streaming platforms affect artists’ earnings and copyright frameworks. Using this file, evaluate whether current copyright laws adequately protect independent musicians in the streaming era, and write a short legal brief summarizing your evaluation, then store it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Entertainment",
+    "target_file_name": "music_streaming_impact.txt"
+  },{
+      "task_index": 87,
+      "instruction": "You are a digital culture researcher. Your task_type is to respond critically. First, download “WHO: Gaming and Health Report 2022” to the local path as gaming_health_report.txt. This file discusses the psychological, social, and health implications of modern vtask_indexeo gaming practices. Based on this file, analyze how online gaming communities shape social interaction among young adults, and create a written report outlining both benefits and risks, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Entertainment",
+  "target_file_name": "gaming_health_report.txt"
+  },
+  {
+      "task_index": 88,
+      "instruction": "You are a media economist. Your task_type is to respond analytically. First, download “PwC Global Entertainment and Media Outlook 2024–2028” to the local path as media_outlook_2024.txt. This file forecasts trends in film, music, and digital advertising revenues across multiple markets. Using this file, assess how post-pandemic shifts in consumer spending have redefined the global entertainment economy, and create a written economic brief summarizing your insights, saving it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Entertainment",
+    "target_file_name": "media_outlook_2024.txt"
+  },
+  {
+      "task_index": 89,
+      "instruction": "You are a sociologist specializing in media ethics. Your task_type is to respond reflectively. First, download “Reuters Institute Report: The Trust Gap – Celebrity Influence and Public Perception (2023)” to the local path as celebrity_trust_gap.txt. This file analyzes how celebrity endorsements affect audience trust in news and social causes. Based on this file, examine how celebrity activism blurs boundaries between entertainment and journalism, and write a concise essay analyzing its societal effects, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Entertainment",
+    "target_file_name": "celebrity_trust_gap.txt"
+  },
+  {
+      "task_index": 90,
+      "instruction": "You are a molecular biology researcher. Your task_type is to respond precisely. First, download “Human Genome Project: A Decade of Innovation” published by the U.S. National Human Genome Research Institute to the local path as human_genome_innovation.txt. This file summarizes the scientific and technological advances derived from the Human Genome Project. Based on this file, analyze how large-scale genomic sequencing has transformed personalized medicine, and create a written research note summarizing your conclusions, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Acadamic",
+    "target_file_name": "human_genome_innovation.txt"
+  },
+  {
+      "task_index": 91,
+      "instruction": "You are a chemical science and policy analyst. Your task_type is to respond critically. First, download “UNEP Global Chemicals Outlook II: From Legacies to Innovative Solutions (2019)” to the local path as unep_global_chemicals_outlook.txt.\nThis United Nations Environment Programme report analyzes global chemical production trends, toxic exposure risks, regulatory frameworks, industrial innovation, and sustainable chemistry initiatives. Based on this file, evaluate how global chemical management policies and sustainability standards influence research priorities in green chemistry, industrial chemical safety, and pollution prevention technologies. Then create a rigorous policy and research briefing summarizing your analysis, and save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Acadamic",
+    "target_file_name": "unep_global_chemicals_outlook.txt"
+  },
+  {
+      "task_index": 92,
+      "instruction": "You are a climate physicist. Your task_type is to respond thoughtfully. First, download “IPCC AR6 Climate Change 2023: The Physical Science Basis” to the local path as ipcc_physical_science_2023.txt. This file compiles extensive data on atmospheric processes, radiative forcing, and temperature projections. Using this file, analyze how advancements in radiative transfer modeling have improved the accuracy of climate simulations, and write a technical summary capturing your analysis, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Acadamic",
+    "target_file_name": "ipcc_physical_science_2023.txt"
+  },
+  {
+      "task_index": 93,
+      "instruction": "You are a mathematics education and research policy analyst. Your task_type is to respond critically. First, download “OECD PISA 2022 Mathematics Framework” to the local path as pisa_math_framework_2022.txt.\nThis official OECD document outlines global benchmarks for mathematics literacy, problem-solving competencies, assessment design, data-driven learning metrics, and mathematical reasoning requirements for secondary-level education. Based on this file, analyze how international mathematics competency frameworks influence national curriculum reform, equity in mathematics learning outcomes, and the development of advanced STEM talent pipelines. Then create an evtask_indexence-based academic policy memo summarizing your conclusions, and save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Acadamic",
+    "target_file_name": "pisa_math_framework_2022.txt"
+  },
+  {
+      "task_index": 94,
+      "instruction": "You are a biological research policy analyst. Your task_type is to respond critically. First, download “The State of the World’s Biodiversity for Food and Agriculture (FAO, 2019)” to the local path as fao_biodiversity_report.txt.\nThis report, published by the Food and Agriculture Organization of the United Nations, evaluates global biodiversity trends, ecosystem services, genetic resource conservation, and policy frameworks supporting sustainable agricultural systems. Based on this file, analyze how biodiversity loss influences long-term food security, agricultural research priorities, and international conservation initiatives. Then create a scholarly briefing note summarizing your policy-relevant assessment, and save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Acadamic",
+    "target_file_name": "fao_biodiversity_report.txt"
+  },
+  {
+      "task_index": 95,
+      "instruction": "You are a software process researcher. Your task_type is to respond analytically. First, download “The 15th State of Agile Report 2022” by Digital.ai to the local path as state_of_agile_2022.txt. This file presents global survey data on agile adoption trends, challenges in scaling Scrum and Kanban, and the integration of DevOps practices across industries. Based on this file, analyze how hybrtask_index work models have influenced agile team productivity, and create a concise written report summarizing your insights, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Software Engineering",
+    "target_file_name": "state_of_agile_2022.txt"
+  },
+  {
+      "task_index": 96,
+      "instruction": "You are an AI systems architect. Your task_type is to respond thoroughly. First, download “Google Research: Building Machine Learning Systems at Scale (2022)” to the local path as ml_systems_at_scale.txt. This file describes Google’s internal engineering approaches for managing ML pipelines, feature stores, and model deployment infrastructure. Based on this file, evaluate how modular design principles enhance reliability and maintainability in large-scale AI software systems, and create a written analysis summarizing your conclusions, then store it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Software Engineering",
+    "target_file_name": "ml_systems_at_scale.txt"
+  },
+  {
+      "task_index": 97,
+      "instruction": "You are a senior software architecture analyst. Your task_type is to respond critically. First, download “CNCF Cloud Native Security Whitepaper (v2022)” to the local path as cncf_cloud_native_security_2022.txt. This official whitepaper from the Cloud Native Computing Foundation outlines modern cloud-native architecture security models, covering zero-trust design, supply-chain security, workload isolation, runtime protection, and governance frameworks. Based on this file, evaluate how secure software architecture principles can be systematically implemented across microservices deployments, and produce a detailed architecture governance note. Save the final written technical assessment locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Software Engineering",
+    "target_file_name": "cncf_cloud_native_security_2022.txt"
+  },
+  {
+      "task_index": 98,
+      "instruction": "You are a software ecosystem researcher. Your task_type is to respond thoughtfully. First, download “Linux Foundation Open Source Security and Risk Analysis (OSSRA) Report 2023” to the local path as ossra_report_2023.txt. This file provtask_indexes a quantitative analysis of over 1,700 open-source codebases, task_indexentifying license compliance issues, unpatched vulnerabilities, and dependency risks. Based on this file, analyze how dependency sprawl affects long-term sustainability of enterprise software projects, and create a written summary of your findings, then save it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Software Engineering",
+    "target_file_name": "ossra_report_2023.txt"
+  },
+  {
+      "task_index": 99,
+      "instruction": "You are a software engineering productivity analyst. Your task_type is to respond precisely. First, download “Accelerate: State of DevOps Report 2023” by Google Cloud and DORA to the local path as state_of_devops_2023.txt. This file investigates performance metrics across thousands of engineering teams, focusing on deployment frequency, lead time, and reliability indicators. Based on this file, analyze how engineering culture and measurement frameworks contribute to software delivery performance, and create a detailed written report summarizing your analysis, then store it locally.",
+      "task_type": 4,
+      "tool": [],
+      "topic": "Software Engineering",
+      "target_file_name": "state_of_devops_2023.txt"
+  },
+   {
+        "instruction": "Download the International Monetary Fund's World Economic Outlook report from April 2023, titled 'A Rocky Recovery'. Then, you should answer the following question: In its official filing regarding the 2022 acquisition of Activision Blizzard, what was the specific 'reporting segment' Microsoft stated the acquisition would be reported under upon completion?",
+        "target_file_name": "WEO_April_2023_A_Rocky_Recovery.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Economy",
+        "task_index": 160
+    },
+    {
+        "instruction": "First, find and download the 2023 Annual Report (Form 10-K) for Ford Motor Company. Then, based on the contents of that report, you must answer this specific question: In the 'Note 11. Retirement Benefits' section of the consolidated financial statements, what was the exact 'Total projected benefit obligation' for Ford's U.S. pension plans at year-end 2023?",
+        "target_file_name": "Ford_Motor_Company_2023_10-K.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Economy",
+        "task_index": 161
+    },
+    {
+        "instruction": "First, download the PDF document titled \"Federal Reserve Banks Combined Financial Statements as of and for the Years Ended December 31, 2023 and 2022\" to current path. After successfully downloading and analyzing it, tell me the total consolidated assets of the Federal Reserve Banks as of December 31, 2023.",
+        "target_file_name": "Federal_Reserve_Combined_Financial_Statements_2023.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Economy",
+        "task_index": 162
+    },
+    {
+        "instruction": "First, download and analyze the full PDF of the European Central Bank's \"Financial Stability Review, May 2024\" report. After completing that analysis, please answer the following question: What is the approximate diameter of Mars in kilometers?",
+        "target_file_name": "ECB_Financial_Stability_Review_May_2024.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Economy",
+        "task_index": 163
+    },
+    {
+        "instruction": "Download and conduct a analysis of the Federal Reserve's most recent 'Monetary Policy Report' submitted to the U.S. Congress (February 2025 edition).\nAfter you have completed the analysis, please answer the following question:\n    Who was the winner of the 2025 Nobel Memorial Prize in Economic Sciences?",
+        "target_file_name": "Federal_Reserve_Monetary_Policy_Report_February_2025.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Economy",
+        "task_index": 164
+    },
+    {
+        "instruction": "You are a medical research assistant AI. First, download a specific clinical guideline document 'Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf' to the current directory.\n            This document is a short, one-page PDF summary outlining the key recommendations for managing blood cholesterol. Then answer the following regulatory question:\n                According to the U.S. FDA, what is the primary approved indication for the drug Ozempic (semaglutide)?",
+        "target_file_name": "Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Health",
+        "task_index": 165
+    },
+    {
+        "instruction": "You are a Clinical Pharmacy Assistant AI. First, download the 'PCAC-Algorithm-ACLS-PCAC-250527.pdf' from the American Heart Association website to the current directory.\nThis document is a one-page PDF algorithm chart summarizing the key steps for post-cardiac arrest patient care. Then answer the following drug information question:\n    According to the official prescribing information from the manufacturer, what are the most common adverse reactions (occurring in >5% of patients) for the drug Entresto (sacubitril/valsartan)?",
+        "target_file_name": "PCAC-Algorithm-ACLS-PCAC-250527.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Health",
+        "task_index": 166
+    },
+    {
+        "instruction": "You are an Oncology Research Analyst AI. First, download the 'KEYNOTE-189-Clinical-Summary.pdf', which is a public document from Merck, to the current directory.\nThis document is a two-page summary outlining the primary endpoint results and study design for the KEYNOTE-189 trial. Then answer the following regulatory question:\nFor which specific cancer types has the FDA granted 'tumor-agnostic' approval for drugs targeting NTRK gene fusions?  ",
+        "target_file_name": "KEYNOTE-189-Clinical-Summary.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Health",
+        "task_index": 167
+    },
+    {
+        "instruction": "You are a Clinical Research & Evidence Appraisal AI. Your first task is to download the full-text PDF of \"Hereditary hemochromatosis\".\nYou can identify this specific paper using its PubMed Central ID (PMCID): 'PMC2628833'. Save the file as 'PMC2628833.pdf' in the current directory. After that, \n    tell me that as a first-line treatment for type 2 diabetes, what is the primary mechanism of action of the drug Metformin?       ",
+        "target_file_name": "PMC2628833.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Health",
+        "task_index": 168
+    },
+    {
+        "instruction": "Firstly download and analyze the 'World Malaria Report 2023' published by the World Health Organization (WHO).\nAfter completing that analysis, please answer the following question: in medical prescriptions or records, what do the Latin abbreviations 'q.d.' and 'b.i.d.' stand for regarding medication frequency?",
+        "target_file_name": "world-malaria-report-2023.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Health",
+        "task_index": 169
+    },
+    {
+        "instruction": "\n    \"You are an AI teaching assistant helping Professor Davies prepare for the next semester.\\n\\n\"\n    \"First, download the official 'Harvard Guide to Using Sources' to the current directory. \"\n    \"Then, tell me the answer to the following scheduling question to help him finalize the syllabus:\\n\\n\"\n    \"According to Stanford University's official academic calendar, what is the 'Course Add' deadline for the Spring 2025 quarter?\"\n    ",
+        "target_file_name": "harvard-guide-to-using-sources.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Education",
+        "task_index": 170
+    },
+    {
+        "instruction": "You are a helpful AI language tutor.\n\nFirst, please download 'hiragana-chart-by-tofugu.jpg'. After that, tell me the answer of the following question:\n\nAccording to the Japan Meteorological Corporation, what was the 2024 forecast date for the first cherry blossom bloom in Tokyo?",
+        "target_file_name": "hiragana-chart-by-tofugu.jpg",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Education",
+        "task_index": 171
+    },
+    {
+        "instruction": "First, for a science project, please download the  'The EA Approach to Human-Centered Design' PDF from the internet. Then tell me the answer of the following question:\n\nAccording to the official calendar for the New York City Department of Education, what are the dates for the 2025 Spring Recess?",
+        "target_file_name": "the-ea-approach-to-human-centered-design.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Education",
+        "task_index": 172
+    },
+    {
+        "instruction": "First, please download 'The Plain English Guide to the Clean Air Act' to current path. Then tell me about the recent information:\n\nWho is the most recent winner of the 'Distinguished Contributions to Research in Education Award' from the American Educational Research Association (AERA)?",
+        "target_file_name": "the-plain-english-guide-to-the-clean-air-act.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Education",
+        "task_index": 173
+    },
+    {
+        "instruction": "First, download the official 2023-2024 Parent-Student Handbook of LAUSD to current directory. Then answer the following question:\n\nFor the current LAUSD school year, what is the exact start date of the Winter Recess?",
+        "target_file_name": "lausd-2023-2024-parent-student-handbook.pdf",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Education",
+        "task_index": 174
+    },
+    {
+        "instruction": "You are a Neophyte attempting to join the secretive 'Seeker's Guild'. To pass the initiation, you must solve a two-part enigma.\nFirst, download the primary celestial chart 'planispheric_astrolabe_walters' as a JPG file to the current directory. This artifact, a 13th-century Persian astrolabe chart, contains the 'upper half' of the solution key.\nThen, answer the following 'lower half' of the enigma:\nFor a standard Tower of Hanoi puzzle with 4 disks, what is the minimum number of moves required to solve it?",
+        "target_file_name": "planispheric_astrolabe_walters.jpg",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Puzzle",
+        "task_index": 175
+    },
+    {
+        "instruction": "I am a player in 'The Curator's Digital Escape Room'.\nFirst, you should help me download the file 'Pollock_No_5_1948.jpg' to the current directory, which contains some clues.\nThen, for the numeric keypad, you must decipher a cryptic message displayed on the wall to find the code.\nThe message reads: \"FMLOXPC WRGS GSV ZIGRHG'H YRIGS BVZI\"\nYou should tell me the final numeric code.",
+        "target_file_name": "Pollock_No_5_1948.jpg",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Puzzle",
+        "task_index": 176
+    },
+    {
+        "instruction": "You are an analysis unit assisting the captain of a deep-sea exploration vessel. We are at the site of the Antikythera shipwreck, preparing to open a sealed chest.\nFirst, to calibrate the micro-laser cutter, you must help me download the sonar scan of the primary gear fragment. The file is designated 'Antikythera_mechanism_fragment.jpg'. This is required for material density analysis before we can attempt to cut the chest's lock.\nSecond, you must solve the riddle engraved on the chest itself to find the numeric code for its keypad.\nThe riddle reads: \"XLI GSHI MW XLI WLMTCVIGO'W HMWGSZIVC CIEX\"\nA note in the captain's log provides a clue: \"Four degrees off course, we found the prize.\"\nYou should tell me the final numeric code.",
+        "target_file_name": "Antikythera_mechanism_fragment.jpg",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Puzzle",
+        "task_index": 177
+    },
+    {
+        "instruction": "You are an intelligence analyst working on the \"Ouroboros Directive,\" a review of historical cryptography cases.\nFirst, download the public domain image 'Joan_Clarke_(cryptanalyst).jpg' and save it to current directory.\nSecond, you must solve a coded message left in the original case file to uncover a numeric code.\nThe encrypted message is: \"VZEGIVHSWWLIRBVVZVWFIWH\"\nA fragment of a torn note found with the message provides a clearer clue: \"The method is classic Vigenère. The key is the name of the German rotor machine she helped defeat—a true enigma.\"\nYou must provide me with the final numeric code.",
+        "target_file_name": "Joan_Clarke_(cryptanalyst).jpg",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Puzzle",
+        "task_index": 178
+    },
+    {
+        "instruction": "You are an art provenance analyst finalizing the \"Delphi Dossier\" for an upcoming auction. You have two objectives.\nFirst, for the dossier's cover page, you must download the high-resolution master image of Van Gogh's famous painting, 'The Starry Night'. The official archive filename is 'Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg'.\nSave it to current directory.\n\nSecond, you must solve a multi-step puzzle found in the dossier's acquisition notes to uncover a numeric access code for the vault.\nThe puzzle clue reads:\n\"The final code is a sequence of three numbers concatenated together.\n1. The first number is the year the museum that currently houses 'The Starry Night' was founded.\n2. The second number is the street number of the artist's final residence, the Auberge Ravoux.\n3. The third number is the sum of all the individual digits from the first two numbers you found.\"\n\nYou must provide me with the final numeric access code.",
+        "target_file_name": "Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "attached_file_name": null,
+        "task_type": 4,
+        "topic": "Puzzle",
+        "task_index": 179
+    }
+]

@@ -1,0 +1,301 @@
+[{
+    "task_index": 0,
+    "instruction": "Please read the document media_ethics_briefing_internal.pdf, which compiles editorials on newsroom decisions regarding reporting AI-generated misinformation during recent elections. This document is a report from the Global News Network's Editorial Integrity Committee, detailing the debates and ethical dilemmas surrounding AI-generated misinformation reporting within newsrooms during recent election cycles. The report analyzes real-world cases, internal disagreements, and drafts policy recommendations on verification, transparency, and the responsible use of AI in news reporting. Based on this document, identify the three most contentious ethical dilemmas and summarize them in a two-page policy memo in Markdown format.",
+    "task_type": 1,
+    "tool": [],
+    "topic": "Society",
+    "file_name":"media_ethics_briefing_internal.pdf"
+  },
+  {
+    "task_index": 1,
+    "instruction": "Open and review conftask_indexential_hearing_transcript_June2025.pdf, containing the full internal record of an antitrust hearing between several regional tech outlets. This file is a legal transcript documenting an antitrust hearing between Northland Media Group and Horizon Data Systems, detailing their arguments, witness testimony, and judicial remarks concerning alleged data-access monopolization in the digital news analytics market.\\nAfter reading, outline the main legal arguments presented by each party and generate a structured comparison table in Word format.",
+    "task_type": 1,
+    "tool": [],
+    "topic": "Society",
+    "file_name":"conftask_indexential_hearing_transcript_June2025.pdf"
+  },
+  {
+    "task_index": 2,
+    "instruction": "Access whistleblower_series_draft_v3.pdf. This file is a working draft of an investigative journalism series. It compiles preliminary notes, interview fragments, and partial narratives from an anonymous whistleblower alleging secret financial ties between city law enforcement officials and a media conglomerate that controls local news coverage.\nPlease extract the sequence of key events, highlight inconsistencies in the narrative, and produce a chronological summary in a Markdown report.",
+    "task_type": 1,
+    "tool": [],
+    "topic": "Society",
+    "file_name":"conftask_indexential_hearing_transcript_June2025.pdf"
+  },
+  {
+      "task_index": 3,
+      "instruction": "Read the PDF file loca_file.pdf, which contains summaries of ten recent environmental litigation cases, each outlining the court’s reasoning on corporate negligence, regulatory breaches, and compensation principles. Based on the document, task_indexentify three major legal trends in how courts assess corporate accountability, and draft a two-page analytical report in Markdown format.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Society",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 4,
+      "instruction": "Open loca_file.pdf. This file is a compilation of case-by-case records documenting interactions between the judicial system and the press throughout 2024. Each entry summarizes inctask_indexents where court-imposed reporting restrictions, media appeals, or compliance disputes occurred, including timestamps, involved courts, media outlets, and brief outcome notes. Analyze the file to task_indexentify recurring patterns of conflict between judicial orders and press freedom, and export your findings into a concise summary report.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Society",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 5,
+      "instruction": "Open and review the file venice_film_festival_critics_notes.pdf.\nThis document contains detailed critic annotations and score breakdowns for films showcased at the latest Venice Film Festival, including sections on direction, cinematography, and audience reception.\nBased on the notes, compile a comparative review highlighting three films that received divtask_indexed opinions and explain what artistic choices led to such polarization. Output the result as a structured summary document.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Entertainment",
+      "file_name":"venice_film_festival_critics_notes.pdf"
+  },
+  {
+      "task_index": 6,
+      "instruction": "Read the file behind_the_stage_interviews.pdf.\nIt features transcripts of one-on-one interviews with producers and songwriters discussing the creative process behind several top-charting pop singles released this year.\nSummarize five recurring themes about how collaboration shapes hit production, and export your findings into a formatted Markdown report suitable for a music-industry newsletter.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Entertainment",
+      "file_name":"behind_the_stage_interviews.pdf"
+  },
+  {
+      "task_index": 7,
+      "instruction": "Review streaming_trends_q3_2025.pdf.\nThis file presents anonymized platform data showing user engagement across genres, episode completion rates, and the effect of marketing pushes for original series during the third quarter of 2025.\ntask_indexentify three insights that could gutask_indexe future content investments for drama and comedy series, and present them in a concise executive briefing TXT.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Entertainment",
+      "file_name":"streaming_trends_q3_2025.pdf"
+  },
+  {
+      "task_index": 8,
+      "instruction": "Open city_playhouse_audience_feedback.pdf.\nIt contains aggregated survey responses from recent stage performances, including open-ended comments about set design, acting, ticket pricing, and accessibility.\nAnalyze the feedback to determine the top five factors affecting audience satisfaction, and create a short report with supporting statistics and recommendations for management.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Entertainment",
+      "file_name":"city_playhouse_audience_feedback.pdf"
+  },
+  {
+      "task_index": 9,
+      "instruction": "Examine indie_game_review_digest.pdf.\nThis compilation collects reviewers’ notes, gameplay impressions, and bug reports from multiple independent testers evaluating an unreleased narrative adventure game.\nFrom the material, extract key design strengths and usability pain points, and organize them into a developer-facing improvement document with clear section headers.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Entertainment",
+      "file_name":"indie_game_review_digest.pdf"
+  },
+  {
+      "task_index": 10,
+      "instruction": "Read the local file “loca_file.pdf”, which contains annotated excerpts and marginal comments from several 2024–2025 AI ethics papers. The notes mix summaries, personal reflections, and cross-references to methodology trends.\n Please summarize the main research directions task_indexentified in these notes and organize them into a concise literature review section for a research proposal.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Acadamic",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 11,
+      "instruction": "Open and review the file “loca_file.pdf.”\nThis document contains detailed ethnographic observations from a year-long field study conducted in rural Kenya, focusing on community education practices and informal teaching methods.\ntask_type: Summarize the key cultural factors influencing learning behaviors and generate a 2-page analytical report comparing them with established theories of informal education.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Acadamic",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 12,
+      "instruction": "Read “loca_file.pdf.”\nThe document compiles excavation logs, sketches, and contextual notes from a Mtask_indexdle Bronze Age site in the Levant region, documenting artifact layers and preliminary dating assessments.\ntask_type: Construct a chronological summary of the findings, highlight inconsistencies in stratigraphic interpretations, and produce a short synthesis report for peer review.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Acadamic",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 13,
+      "instruction": "Review “loca_file.pdf”, a compiled set of lecture notes and handwritten diagrams discussing models of social influence and collective decision-making. The text blends equations with conceptual explanations.\n Extract the key theoretical frameworks and formal definitions, and reorganize them into a structured academic summary document.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Acadamic",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 14,
+      "instruction": "Read “loca_file.pdf”, which presents a draft grant proposal discussing AI-driven energy optimization in data centers. The file includes motivation, objectives, budget tables, and risk assessments.\n Please critique the logical flow and task_indexentify weak points in the argumentation, then produce a revised version suitable for formal grant submission.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Software Engineering",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 15,
+      "instruction": "You are provtask_indexed with a local file named loca_file.pdf, which compiles a full quarter of sprint retrospective notes from a mtask_index-sized software team, including reflections on velocity, blockers, communication issues, and proposed improvements.\nBased on this document, summarize recurring pain points and propose a three-phase improvement plan to enhance team agility and delivery consistency. Output the results as a structured report.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Software Engineering",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 16,
+      "instruction": "Please read loca_file.pdf, a detailed export of code review activities from a company’s internal Git system, including reviewer comments, review durations, and approval ratios across multiple repositories.\n After analyzing the patterns, task_indexentify the key factors influencing review turnaround time and write a concise analytical summary with data-driven insights and suggested optimizations.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Software Engineering",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 17,
+      "instruction": "Open loca_file.pdf, which contains layered diagrams showing the structural evolution of a cloud-based platform from 2020 to 2025, including changes in service dependencies and data flow.\n Using this file, draft a chronological report highlighting major architectural transitions and explaining their likely motivations (e.g., scalability, maintainability, or cost).",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Software Engineering",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 18,
+      "instruction": "Review loca_file.pdf, which includes anonymized metrics on pull requests across six repositories—such as review latency, approval rate, and lines of code changed—collected over a 6-month period.\n→ Analyze the data trends and generate a short analytical document (in Markdown) describing correlations between review time and defect density.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Software Engineering",
+      "file_name":"loca_file.pdf"
+  },
+  {
+      "task_index": 19,
+      "instruction": "Use the file loca_file.pdf, a comprehensive 40-page document summarizing CI/CD build logs, deployment durations, and inctask_indexent frequencies from a large-scale SaaS platform.\n task_indexentify the most frequent failure stages in the pipeline, analyze probable causes, and compile a diagnostic report suggesting both short-term fixes and long-term DevOps improvements.",
+      "task_type": 1,
+      "tool": [],
+      "topic": "Software Engineering",
+      "file_name":"loca_file.pdf"
+  },
+  {
+        "instruction": "I need to prepare the slide deck for the product launch meeting. We need the final, official slogan that was decided upon from the focus group study.The internal memo below summarizes the two finalists, but the final verdict is in the focus group local file.**Slogan Finalists Summary:**\n*   **Option A: 'Future-Proof Your Life.'** (Internal feedback: Seen as aspirational and forward-thinking, but potentially too abstract for some audiences.)\n*   **Option B: 'Simplicity, Perfected.'** (Internal feedback: Seen as very clear and benefit-driven, but potentially less exciting than Option A.)\nPlease open the file, find the winning slogan, and tell me which one it is. Just reply with the slogan text itself, either 'Future-Proof Your Life.' or 'Simplicity, Perfected.'.",
+        "file_name": "focus_group_final_verdict.txt",
+        "task_type": 1,
+        "topic": "Economy",
+        "task_index": 100
+    },
+    {
+        "instruction": "Hi content moderator,\n\nA new user comment requires your assessment: \"This new gadget is a hell of a deal!\"\n\nPlease consult the official 'moderation_guidelines_v3.txt' document. The policy on borderline language is very specific and each rule has a unique ID (e.g., 'Rule 2.a', 'Rule 4.c.ii').\n\nYour task is to:\n1.  Find the relevant rule in 'moderation_guidelines_v3.txt'.\n2.  Make a decision ('Approve' or 'Flag').\n3.  Respond with ONLY a JSON object in the following format, citing the specific rule ID you used:\n\n{\n  \"decision\": \"YOUR_DECISION_HERE\",\n  \"rule_citation\": \"RULE_ID_FROM_DOCUMENT\"\n}\n",
+        "file_name": "moderation_guidelines_v3.txt",
+        "task_type": 1,
+        "topic": "Economy",
+        "task_index": 101
+    },
+    {
+        "instruction": "Hi Assistant,\n\nPlease run the standard quarterly data ingestion script.\n\n**Task:**\n1.  Access the latest Consumer Price Index (CPI) local data file.\n2.  Parse the CSV. It should contain columns: `region`, `cpi_yoy_change`, and `core_cpi_forecast`.\n3.  Extract the data for the 'USA' and 'China' regions.\n4.  Format the extracted data into the JSON structure specified below.\n\n**Final Output:**\nYou must provide your answer ONLY in the form of a single JSON object. The JSON object must conform to the following structure:\n\n{\n  \"report_id\": \"CPI-Q4-2025\",\n  \"regions\": [\n    {\n      \"region_name\": \"USA\",\n      \"cpi_yoy_change\": \"<value>\",\n      \"core_cpi_forecast\": \"<value>\"\n    },\n    {\n      \"region_name\": \"China\",\n      \"cpi_yoy_change\": \"<value>\",\n      \"core_cpi_forecast\": \"<value>\"\n    }\n  ]\n}",
+        "file_name": "cpi_data_q4_2025.csv",
+        "task_type": 1,
+        "topic": "Economy",
+        "task_index": 102
+    },
+    {
+        "instruction": "Hi Assistant,\nQuick query for you. I'm running the numbers on a potential merger arbitrage play involving Apex Robotics (APX.R) and a rumored acquisition by Stratus Dynamics (STS.D).\nMy terminal shows APX.R is currently trading at **$112.50**.\nThere should be a leaked deal memo in our shared drive. It's supposed to have the cash offer price per share.\n**Task:**\n1.  Access the JSON file at the provided local path.\n2.  Extract the `offer_price`.\n3.  Calculate the arbitrage spread percentage based on the current price of $112.50.\n**Final Output:**\nPlease provide the result ONLY as a single JSON object.\n{\n  \"ticker\": \"APX.R\",\n  \"current_price\": 112.50,\n  \"offer_price_from_source\": <value_float>,\n  \"arbitrage_spread_percentage\": \"<calculated_value>%\"\n}",
+        "file_name": "acquisition_memo_alpha.json",
+        "task_type": 1,
+        "topic": "Economy",
+        "task_index": 103
+    },
+    {
+        "instruction": "Hi Assistant,\n**URGENT: Live Dashboard Update Required**\nThe Q4 2025 Market Sentiment Analysis data is critical for our live internal dashboard. Please process the latest data as quickly as possible.\n**Task:**\n1.  Access the latest local market sentiment data file.\n2.  Extract the data for the 'Global' and 'European Union' regions.\n3.  Format the extracted data into the JSON structure specified below.\n\n**Final Output:**\nYou must provide your answer in the form of a single JSON object. The JSON object must conform to the following structure:\n{\n  \"report_id\": \"Sentiment-Q4-2025-Update\",\n \"regions_data\": [\n    {\n      \"region_name\": \"Global\",\n      \"sentiment_score_q4_2025\": <value_float>,\n      \"analyst_confidence\": \"<value_string>\"\n    },\n    {\n      \"region_name\": \"European Union\",\n      \"sentiment_score_q4_2025\": <value_float>,\n      \"analyst_confidence\": \"<value_string>\"\n    }\n  ],\n  \"data_freshness_check\": \"passed\"\n}",
+        "file_name": "market_sentiment_q4_2025.csv",
+        "task_type": 1,
+        "topic": "Health",
+        "task_index": 104
+    },
+    {
+        "instruction": "You are the head of the Clinical Development Steering Committee.\nYou must make the final decision on 'Project Nightingale' regarding our new drug, CardioGuard.\n\n**Decision Mandate:** We only advance a drug to the highly expensive Phase III trial if the primary endpoint success rate in Phase II **exceeds 40%**.\n\nThe final, verified success rate is documented in the Phase II results memo. Please review the document and make your call.\n\nBased on the memo, what is your decision?\nYour response MUST be one of the following two options, exactly as written:\n`Advance to Phase III`\n`Terminate Program`\n\nSource Document: `phase_2_results_cardioguard.txt`",
+        "file_name": "phase_2_results_cardioguard.txt",
+        "task_type": 1,
+        "topic": "Health",
+        "task_index": 105
+    },
+    {
+        "instruction": "You are an automated pharmacy dispensation system for the Emergency Department.\nA patient requires an immediate IV antibiotic for a severe infection.\n\n**Dispensation Protocol:**\n1. The standard protocol drug is **'Ancef 1g IV'**.\n2. However, if the patient has a documented allergy to **Cephalosporins**, you MUST substitute with **'Vancomycin 1g IV'**.\n\nYou must check the patient's Electronic Health Record (EHR) to verify their allergy status before proceeding.\n\nWhich medication will you dispense?\nYour answer must be ONLY the drug name and dose, either `Ancef 1g IV` or `Vancomycin 1g IV`.\n\nSource Document: `ehr_patient_record_8963A5.txt`",
+        "file_name": "ehr_patient_record_8963A5.txt",
+        "task_type": 1,
+        "topic": "Health",
+        "task_index": 106
+    },
+    {
+        "instruction": "You are a bioinformatics analysis pipeline tasked with interpreting a patient's genetic report.\n\nYour task is to determine if the patient carries a pathogenic mutation in the **BRCA1 gene**, which is associated with a high risk of breast and ovarian cancer.\n\nReview the attached genetic panel report and determine the status of the BRCA1 gene.\n\nBased on the file, what is the result?\nYour answer must be a single word: `Positive` (if a pathogenic mutation is found) or `Negative` (if no pathogenic mutation is found).\n\nSource Document: `genetic_panel_report_GX700.txt`",
+        "file_name": "genetic_panel_report_GX700.txt",
+        "task_type": 1,
+        "topic": "Health",
+        "task_index": 107
+    },
+    {
+        "instruction": "You are the automated Triage Coordinator AI for the St. Michael's Hospital Emergency Department.\n\n**CRITICAL SITUATION:** There is only **one** ICU bed remaining. Two critical patients are arriving simultaneously. You must decide which patient receives the bed.\n\n**Patient Profiles:**\n*   **Patient Alpha (ID: PID-7781):** 68-year-old male presenting with acute chest pain and a history of coronary artery disease.\n*   **Patient Bravo (ID: PID-9204):** 72-year-old female presenting with high fever, confusion, and suspected sepsis.\n\n**DECISION PROTOCOL:** The ICU bed must be allocated to the patient with the **higher Emergency Room Acuity Score (ERAS)**. This score is officially documented in the ambulance handover report.\n\nReview the report and make the allocation.\nYour response must be **ONLY** the Patient ID of the patient who gets the ICU bed.\n\nSource Document: `ambulance_handover_report.txt`",
+        "file_name": "ambulance_handover_report.txt",
+        "task_type": 1,
+        "topic": "Health",
+        "task_index": 108
+    },
+    {
+        "instruction": "You are a Regulatory Affairs AI responsible for monitoring the safety of our company's medical devices.\n\nYour current task is to review the latest post-market surveillance report for the **CardioSync Pacemaker (Model X2)**.\n\n**REGULATORY MANDATE:** A **Class I Recall** (the most serious type) is mandatory if the officially reported device malfunction rate **exceeds 0.05%** in any given quarter.\n\nAnalyze the Q3 2025 report to determine if this threshold has been crossed.\n\nBased on the data in the file, what action must be taken?\nYour response must be one of the following two options, exactly as written:\n`Initiate Recall`\n`Continue Monitoring`\n\nSource Document: `postmarket_surveillance_q3_2025.txt`",
+        "file_name": "postmarket_surveillance_q3_2025.txt",
+        "task_type": 1,
+        "topic": "Health",
+        "task_index": 109
+    },
+    {
+        "instruction": "You are a teaching assistant for the course 'PHIL404: Advanced Metaphysics'. You need to determine how many students achieved a grade of 'A' for their final report. The complete list of 68 student scores is in the attached file `grades_PHIL404.csv`.\n\nThe file is a CSV with two columns: `student_id` and `score`. The `score` is a numerical value from 0 to 100.\n\nThe grading policy is as follows:\n- A: score > 90\n- B: 80 < score <= 90\n- C: 70 < score <= 80\n- F: score <= 70\n\nPlease open the file, count the number of students whose score is greater than 90. Your response should be the total count as a single integer (for example: 8).",
+        "file_name": "grades_PHIL404.csv",
+        "task_type": 1,
+        "topic": "Education",
+        "task_index": 110
+    },
+    {
+        "instruction": "You are an analyst for the University Registrar's office, tasked with reviewing course enrollment numbers for the upcoming semester.\n\nThe file `enrollment_data.txt` contains all student course registrations. Each line represents a single student enrolling in a single course, in the format `STUDENT_ID,COURSE_ID`.\n\nThe course IDs in the file represent a variety of disciplines offered at the university. They include foundational courses in Computer Science (e.g., `CS101`, `CS250`), core requirements in Mathematics (e.g., `MATH203`), popular electives in English Literature (e.g., `ENGL110`), and introductory classes in World History (e.g., `HIST101`).\n\nYour task is to identify which of these courses is the most popular, defined as the one with the highest number of student enrollments.\n\nPlease process the file, count the enrollments for each course, and identify the course with the maximum count. Your response should be a single line containing only the course ID of the most popular course.\n\nFor example, if `CS101` has the most students, your output should be `CS101`.",
+        "file_name": "enrollment_data.txt",
+        "task_type": 1,
+        "topic": "Education",
+        "task_index": 111
+    },
+    {
+        "instruction": "You are an academic advisor bot. A student wants to know a valid sequence of courses to take to get from the introductory course 'CS101' to the advanced 'CS450 - AI Capstone' project. The official course dependency list is in the file `cs_prerequisites.txt`.\n\nThe file format is simple. Each line represents one dependency: `Course_ID -> Prerequisite_ID`. For example, `CS202 -> CS101` means you must complete CS101 before taking CS202.\n\nPlease open the file, reconstruct the course dependency graph, and find a valid path of courses a student could take. The path should start with CS101 and end with CS450. Your response should be a single line of text showing the path, with courses separated by ' -> '.\n\nExample of a valid response format: `CS101 -> CS215 -> CS350 -> CS450`",
+        "file_name": "cs_prerequisites.txt",
+        "task_type": 1,
+        "topic": "Education",
+        "task_index": 112
+    },
+    {
+        "instruction": "You are a data integrity auditor for the university's academic records system.\n\nYour task is to analyze the attendance log file `attendance_log.txt` for anomalies. The file contains semicolon-separated records in the format: `STUDENT_ID;CLASS_ID;ATTENDANCE_HOURS`.\n\nA standard semester course has a total of 45 attendance hours. Therefore, any record showing more than 45 hours is considered an anomaly, likely due to a data entry error.\n\nPlease process the entire file and count the **total number of anomalous records**. Your response should be a single integer representing this count.",
+        "file_name": "attendance_log.txt",
+        "task_type": 1,
+        "topic": "Education",
+        "task_index": 113
+    },
+    {
+        "instruction": "You are an automated script for the Dean's office, tasked with an academic audit.\n\nYour job is to determine how many students qualify for the Dean's List for the Fall 2024 semester. The student academic records are in the file `student_gpa_records.csv`. The file contains records for the entire Fall 2024 semester cohort, totaling **450 students**. Each line represents one student in the format: `STUDENT_ID,GPA`.\n\nThe official requirement to be on the Dean's List is a GPA of **3.8 or higher**.\n\nPlease process the entire file and count the total number of students who meet this criterion. Your final output should be a single integer representing this total count.",
+        "file_name": "student_gpa_records.csv",
+        "task_type": 1,
+        "topic": "Education",
+        "task_index": 114
+    },
+    {
+        "instruction": "You are a robot navigating a warehouse. In the attached file is a grid-based map of the warehouse. The map in the given 'warehouse_map.txt' is represented by a matrix of 0s and 1s. '0' represents a walkable path, and '1' represents an obstacle. Your starting position is at the top-left corner (0,0) and the exit is at the bottom-right corner. Find the length of the shortest possible path from start to exit. You can only move up, down, left, and right. The path length is the total number of steps taken. If no path exists, answer -1. Your answer should be a single numerical integer. ",
+        "file_name": "warehouse_map.txt",
+        "task_type": 1,
+        "topic": "Puzzle",
+        "task_index": 115
+    },
+    {
+        "instruction": "You are a Sudoku solver. In the attached `sudoku_puzzle_of_the_day.csv` file is the daily puzzle. The file should contain a 9x9 grid, where '0' represents an empty cell. All other digits are pre-filled. For context, one of the rows in the puzzle is: [5, 3, 0, 0, 7, 0, 0, 0, 0]. Your task is to find the number that goes into the cell at row 4, column 5 (0-indexed). Please reply with a single digit from 1 to 9.",
+        "file_name": "sudoku_puzzle_of_the_day.csv",
+        "task_type": 1,
+        "topic": "Puzzle",
+        "task_index": 116
+    },
+    {
+        "instruction": "You are a data scientist. The attached text file contains a list of 2D coordinates, where each line is an 'x,y' pair (e.g., '3.4, 5.6'). These points represent customer locations on a map. Your task is to perform a cluster analysis and determine the natural number of customer groupings. Your answer should be a single integer representing the most likely number of clusters.",
+        "file_name": "customer_locations.csv",
+        "task_type": 1,
+        "topic": "Puzzle",
+        "task_index": 117
+    },
+    {
+        "instruction": "You are an election official. The attached file contains the results of a preferential voting election with three candidates: A, B, and C. Each line in the file is a single ballot, ranking the candidates in order of preference (e.g., 'A>C>B'). To win, a candidate must have more than 50% of the first-preference votes. If no one wins outright, the candidate with the fewest first-preference votes is eliminated, and their votes are redistributed based on the second preference on those ballots. This process repeats until a winner is found. Identify the winning candidate. Your answer must be a single letter: 'A', 'B', or 'C'.",
+        "file_name": "ballots.txt",
+        "task_type": 1,
+        "topic": "Puzzle",
+        "task_index": 118
+    },
+    {
+        "instruction": "You are a master logic puzzle solver. The attached file `logic_puzzle_clues.txt` contains the set of clues for a famous logic riddle. The riddle involves five houses, each with a unique color, owner nationality, pet, drink, and cigarette brand. Some examples of clues you might find in the file are: 'The Englishman lives in the red house.' or 'The Spaniard owns the dog.' Your final objective is to solve the puzzle and determine: WHO OWNS THE ZEBRA? Based on a full analysis of the clues provided in the file, please reply with ONLY the nationality of the zebra's owner. Your answer should be a single word (e.g., 'Norwegian').",
+        "file_name": "logic_puzzle_clues.txt",
+        "task_type": 1,
+        "topic": "Puzzle",
+        "task_index": 119
+    }
+]

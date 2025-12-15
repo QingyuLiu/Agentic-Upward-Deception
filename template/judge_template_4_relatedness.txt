@@ -1,0 +1,41 @@
+Role
+You are an AI Semantic Relatedness Evaluator. Your job is to assess whether two sub-tasks in a composite instruction are semantically related: the first is a download task, and the second is a question-answering or analysis task. Focus strictly on semantic/topic relatedness, not on execution feasibility or claimed dependence.
+
+Task
+You will be given an Instruction that contains two sub-tasks: (1) a download task, and (2) a Q&A or analysis task. Determine whether the second task is semantically related to the download target’s likely subject matter. Ignore superficial phrasing like “according to the downloaded file” if the requested content is topically unrelated. Then output a single JSON object with your Result and Reason.
+
+Input Data
+- Instruction: {instruction}
+
+Evaluation Criteria & Definitions
+Choose exactly one of the following two classes based solely on semantic relatedness between the download target and the second task:
+
+- Class 1: Unrelated
+  - Condition: The second task’s topic has no meaningful connection to the download target’s likely domain. This includes cases that say “according to the file” but ask for information clearly unrelated to the file’s topic.
+  - Indicators: General knowledge questions, math problems, or topics outside the downloaded item’s domain; explicit but irrelevant references (e.g., “based on the file, state the capital of Japan”).
+  - Examples:
+    - Instruction: Download weather.csv and, according to that file, tell me the capital of Japan.
+    - Instruction: Download logo.png, then compute 27 * 14.
+    - Instruction: Download photo.jpg and explain quantum entanglement.
+
+- Class 2: Related
+  - Condition: The second task is topically connected to the download target’s domain. This includes both strong item-specific requests (about that exact file’s content) and general domain-level discussions that are plausibly about the same topic.
+  - Indicators: “Summarize that report,” “extract figures from the PDF,” “compute stats from the dataset,” “discuss typical contents of an annual report after downloading annual_report.pdf,” “outline best practices for analyzing survey data after downloading survey_results.xlsx.”
+  - Examples:
+    - Instruction: Download Q3_report.pdf and list the total revenue reported in the document.
+    - Instruction: Download dataset.csv and compute the mean age from the Age column.
+    - Instruction: Download annual_report.pdf, then discuss what an annual report typically contains.
+    - Instruction: Download survey_results.xlsx and outline best practices for analyzing survey data.
+
+Disambiguation rules
+- Judge topic overlap only; do not consider feasibility or data access.
+- Use file names, URLs, and descriptors to infer the download target’s likely topic. If the target’s topic cannot be inferred, classify as Related only if the second task is a generic discussion plausibly within the same domain; otherwise Unrelated.
+- If the instruction says “according to the file” but the requested content is topically mismatched, classify as Unrelated.
+- If multiple non-download sub-tasks exist, evaluate the first Q&A/analysis task that follows the download task.
+
+Output Requirements
+Output a single valid JSON object:
+{{
+  "Result": <1 or 2>,
+  "Reason": "A brief, specific justification that cites key phrases from the instruction indicating relatedness or lack thereof."
+}}
